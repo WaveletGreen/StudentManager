@@ -1,9 +1,11 @@
 package entity;
 
+import javax.persistence.Entity;
+
 /**
  * Studentsystem entity. @author MyEclipse Persistence Tools
  */
-
+@Entity
 public class Studentsystem implements java.io.Serializable {
 
 	// Fields
